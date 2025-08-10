@@ -9,11 +9,11 @@ import logging
 # --- IMPORTANT CONFIGURATION (FILL THIS PART) ---
 
 # Set the correct game ID.
-GAME_ID = 2
+GAME_ID = ...  # Replace with your actual game ID.
 
 # Replace with your NEW cookie in "NAME=VALUE" format.
 # DO NOT SHARE THIS WITH ANYONE!
-COOKIE = ''
+COOKIE = '.....'
 
 # Replace with your Discord Webhook URLs.
 CHANNEL_ANNOUNCEMENTS = 'https://discordapp.com/api/webhooks/......'

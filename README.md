@@ -24,7 +24,7 @@ Before running, open and edit the `Webhooks.py` file to fill in the following va
 HOW TO RUN (WITH DOCKER)
 ------------------------
 
-1. Make sure all files (alert.py, Dockerfile, requirements.txt) are in the same directory.
+1. Make sure all files (Webhooks.py, Dockerfile, requirements.txt) are in the same directory.
 
 2. Open a terminal in that directory, then build the Docker image:
 
